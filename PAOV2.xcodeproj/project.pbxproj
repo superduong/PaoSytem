@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9BA7BE12225D9AB900181CD4 /* SwipingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA7BE11225D9AB800181CD4 /* SwipingController.swift */; };
+		9BA7BE14225D9AD000181CD4 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA7BE13225D9AD000181CD4 /* Page.swift */; };
+		9BA7BE18225D9B4300181CD4 /* QuizCVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA7BE17225D9B4200181CD4 /* QuizCVCell.swift */; };
+		9BA7BE1A225D9B7400181CD4 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA7BE19225D9B7400181CD4 /* Extension.swift */; };
+		9BA7BE1C225D9D4400181CD4 /* CompleteScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA7BE1B225D9D4400181CD4 /* CompleteScreen.swift */; };
+		9BAB5819225DD58F0072FD01 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAB5818225DD58F0072FD01 /* ActionViewController.swift */; };
+		9BAB581B225DD6AE0072FD01 /* ActionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAB581A225DD6AE0072FD01 /* ActionCell.swift */; };
+		9BAB581F225DDAF10072FD01 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAB581E225DDAF10072FD01 /* PersonCell.swift */; };
+		9BAB5821225DE7AB0072FD01 /* ObjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAB5820225DE7AB0072FD01 /* ObjectViewController.swift */; };
+		9BAB5823225DE9310072FD01 /* ObjectCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAB5822225DE9310072FD01 /* ObjectCell.swift */; };
+		9BCD686B225F22F400B928DD /* CardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCD686A225F22F400B928DD /* CardCell.swift */; };
+		9BF4946222606B060081DE11 /* BinaryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF4946122606B060081DE11 /* BinaryController.swift */; };
+		9BF4946422606BAA0081DE11 /* BinaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF4946322606BAA0081DE11 /* BinaryCell.swift */; };
+		9BF5F810225EF1A5005D260E /* PaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF5F80F225EF1A5005D260E /* PaoViewController.swift */; };
+		9BF5F812225EF1C2005D260E /* PaoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF5F811225EF1C2005D260E /* PaoCell.swift */; };
+		9BF5F814225F02E7005D260E /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF5F813225F02E7005D260E /* CardViewController.swift */; };
 		9BF9643B225C809B0008F89E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF9643A225C809B0008F89E /* AppDelegate.swift */; };
 		9BF9643D225C809B0008F89E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF9643C225C809B0008F89E /* ViewController.swift */; };
 		9BF96440225C809B0008F89E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BF9643E225C809B0008F89E /* Main.storyboard */; };
@@ -14,6 +30,7 @@
 		9BF96445225C80A20008F89E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BF96443225C80A20008F89E /* LaunchScreen.storyboard */; };
 		9BF96450225C80A30008F89E /* PAOV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF9644F225C80A30008F89E /* PAOV2Tests.swift */; };
 		9BF9645B225C80A30008F89E /* PAOV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF9645A225C80A30008F89E /* PAOV2UITests.swift */; };
+		9BF96469225C90D50008F89E /* PersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF96468225C90D50008F89E /* PersonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +51,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9BA7BE11225D9AB800181CD4 /* SwipingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipingController.swift; sourceTree = "<group>"; };
+		9BA7BE13225D9AD000181CD4 /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
+		9BA7BE17225D9B4200181CD4 /* QuizCVCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizCVCell.swift; sourceTree = "<group>"; };
+		9BA7BE19225D9B7400181CD4 /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		9BA7BE1B225D9D4400181CD4 /* CompleteScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteScreen.swift; sourceTree = "<group>"; };
+		9BAB5818225DD58F0072FD01 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		9BAB581A225DD6AE0072FD01 /* ActionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionCell.swift; sourceTree = "<group>"; };
+		9BAB581E225DDAF10072FD01 /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		9BAB5820225DE7AB0072FD01 /* ObjectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectViewController.swift; sourceTree = "<group>"; };
+		9BAB5822225DE9310072FD01 /* ObjectCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectCell.swift; sourceTree = "<group>"; };
+		9BCD686A225F22F400B928DD /* CardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCell.swift; sourceTree = "<group>"; };
+		9BF4946122606B060081DE11 /* BinaryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryController.swift; sourceTree = "<group>"; };
+		9BF4946322606BAA0081DE11 /* BinaryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryCell.swift; sourceTree = "<group>"; };
+		9BF5F80F225EF1A5005D260E /* PaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaoViewController.swift; sourceTree = "<group>"; };
+		9BF5F811225EF1C2005D260E /* PaoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaoCell.swift; sourceTree = "<group>"; };
+		9BF5F813225F02E7005D260E /* CardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
 		9BF96437225C809B0008F89E /* PAOV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PAOV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BF9643A225C809B0008F89E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9BF9643C225C809B0008F89E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9BF9643C225C809B0008F89E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = "../New Group/ViewController.swift"; sourceTree = "<group>"; };
 		9BF9643F225C809B0008F89E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9BF96441225C80A20008F89E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BF96444225C80A20008F89E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +80,7 @@
 		9BF96456225C80A30008F89E /* PAOV2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PAOV2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BF9645A225C80A30008F89E /* PAOV2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PAOV2UITests.swift; sourceTree = "<group>"; };
 		9BF9645C225C80A30008F89E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BF96468225C90D50008F89E /* PersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +108,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9BF5F80C225EE2E0005D260E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				9BA7BE11225D9AB800181CD4 /* SwipingController.swift */,
+				9BAB5818225DD58F0072FD01 /* ActionViewController.swift */,
+				9BF96468225C90D50008F89E /* PersonViewController.swift */,
+				9BAB5820225DE7AB0072FD01 /* ObjectViewController.swift */,
+				9BA7BE1B225D9D4400181CD4 /* CompleteScreen.swift */,
+				9BF9643C225C809B0008F89E /* ViewController.swift */,
+				9BF5F80F225EF1A5005D260E /* PaoViewController.swift */,
+				9BF5F813225F02E7005D260E /* CardViewController.swift */,
+				9BF4946122606B060081DE11 /* BinaryController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		9BF5F80E225EE342005D260E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9BAB581A225DD6AE0072FD01 /* ActionCell.swift */,
+				9BAB581E225DDAF10072FD01 /* PersonCell.swift */,
+				9BAB5822225DE9310072FD01 /* ObjectCell.swift */,
+				9BA7BE17225D9B4200181CD4 /* QuizCVCell.swift */,
+				9BF5F811225EF1C2005D260E /* PaoCell.swift */,
+				9BCD686A225F22F400B928DD /* CardCell.swift */,
+				9BF4946322606BAA0081DE11 /* BinaryCell.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		9BF9642E225C809B0008F89E = {
 			isa = PBXGroup;
 			children = (
@@ -98,11 +162,14 @@
 			isa = PBXGroup;
 			children = (
 				9BF9643A225C809B0008F89E /* AppDelegate.swift */,
-				9BF9643C225C809B0008F89E /* ViewController.swift */,
 				9BF9643E225C809B0008F89E /* Main.storyboard */,
 				9BF96441225C80A20008F89E /* Assets.xcassets */,
+				9BF5F80C225EE2E0005D260E /* Controller */,
 				9BF96443225C80A20008F89E /* LaunchScreen.storyboard */,
 				9BF96446225C80A20008F89E /* Info.plist */,
+				9BF5F80E225EE342005D260E /* Model */,
+				9BA7BE19225D9B7400181CD4 /* Extension.swift */,
+				9BA7BE13225D9AD000181CD4 /* Page.swift */,
 			);
 			path = PAOV2;
 			sourceTree = "<group>";
@@ -257,7 +324,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BF9643D225C809B0008F89E /* ViewController.swift in Sources */,
+				9BF96469225C90D50008F89E /* PersonViewController.swift in Sources */,
+				9BA7BE1C225D9D4400181CD4 /* CompleteScreen.swift in Sources */,
+				9BF5F810225EF1A5005D260E /* PaoViewController.swift in Sources */,
 				9BF9643B225C809B0008F89E /* AppDelegate.swift in Sources */,
+				9BAB5823225DE9310072FD01 /* ObjectCell.swift in Sources */,
+				9BCD686B225F22F400B928DD /* CardCell.swift in Sources */,
+				9BA7BE12225D9AB900181CD4 /* SwipingController.swift in Sources */,
+				9BF4946222606B060081DE11 /* BinaryController.swift in Sources */,
+				9BAB581F225DDAF10072FD01 /* PersonCell.swift in Sources */,
+				9BF4946422606BAA0081DE11 /* BinaryCell.swift in Sources */,
+				9BAB5821225DE7AB0072FD01 /* ObjectViewController.swift in Sources */,
+				9BF5F812225EF1C2005D260E /* PaoCell.swift in Sources */,
+				9BAB581B225DD6AE0072FD01 /* ActionCell.swift in Sources */,
+				9BA7BE18225D9B4300181CD4 /* QuizCVCell.swift in Sources */,
+				9BF5F814225F02E7005D260E /* CardViewController.swift in Sources */,
+				9BAB5819225DD58F0072FD01 /* ActionViewController.swift in Sources */,
+				9BA7BE14225D9AD000181CD4 /* Page.swift in Sources */,
+				9BA7BE1A225D9B7400181CD4 /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
